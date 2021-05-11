@@ -1,5 +1,5 @@
 # Multi-Client Chat Application
-A JAVA application that uses socket programming to create a chatting environment where all the clients can chat with each other privately or with all of them at once through server located at "localhost".
+A non-GUI JAVA application that uses socket programming to create a chatting environment where all the clients can chat with each other privately or with all of them at once through server located at "localhost".
 
 ## Installation
 - [**Download**](https://github.com/misraVaibhav/misraVaibhav-MultiClientChatApplication/archive/refs/heads/main.zip) the code.
